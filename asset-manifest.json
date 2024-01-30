@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jashu/static/css/main.e6c13ad2.css",
+    "main.js": "/jashu/static/js/main.8a5c2a9e.js",
+    "static/js/787.0f7dc5a1.chunk.js": "/jashu/static/js/787.0f7dc5a1.chunk.js",
+    "index.html": "/jashu/index.html",
+    "main.e6c13ad2.css.map": "/jashu/static/css/main.e6c13ad2.css.map",
+    "main.8a5c2a9e.js.map": "/jashu/static/js/main.8a5c2a9e.js.map",
+    "787.0f7dc5a1.chunk.js.map": "/jashu/static/js/787.0f7dc5a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a5c2a9e.js"
+  ]
+}
